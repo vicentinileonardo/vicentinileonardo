@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">👋 Hi, I’m Leonardo Vicentini</h1>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/leonardovicentini/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:vicentini.leonardo99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+  </a> &nbsp;&nbsp;
+</p>
 
 <!--
 **vicentinileonardo/vicentinileonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
