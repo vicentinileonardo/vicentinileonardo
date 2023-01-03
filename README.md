@@ -10,14 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="blade_runner.gif" alt="animated" />
-</p>
-
-<p align="center">
-  <img src="blade_runner_2.gif" alt="animated" />
-</p>
-
-<p align="center">
   <img src="blade_runner_3.gif" alt="animated" />
 </p>
 
