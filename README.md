@@ -9,7 +9,7 @@
   </a> &nbsp;&nbsp;
 </p>
 
-![](https://github.com/vicentinileonardo/vicentinileonardo/blade_runner.gif)
+![](blade_runner.gif)
 ![]()
 
 <!--
