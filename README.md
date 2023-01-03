@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="blade_runner_3.gif" alt="animated" />
+  <img src="blade_runner.gif" alt="animated" />
 </p>
 
 
