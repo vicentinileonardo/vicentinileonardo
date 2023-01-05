@@ -37,7 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/develop/icons/akka/akka-original-wordmark.svg" title="Akka" alt="Akka" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate" alt="Hibernate" width="50" height="50"/>&nbsp;
+  <!--<img src="https://github.com/devicons/devicon/blob/develop/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate" alt="Hibernate" width="50" height="50"/>&nbsp;-->
 </div>
 
 ## Databases
