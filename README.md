@@ -9,6 +9,12 @@
   </a> &nbsp;&nbsp;
 </p>
 
+<h3>About 💬</h3>
+
+- Bachelor's Degree in **Computer Science** at the University of Trento
+- Master's degree student of **Computer Science - Software and Service Architectures** at the University of Trento
+- Interested in cloud solutions and system design in general
+
 <p align="center">
   <img src="blade_runner.gif" alt="animated" />
 </p>
