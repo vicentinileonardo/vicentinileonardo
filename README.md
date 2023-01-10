@@ -9,8 +9,7 @@
   </a> &nbsp;&nbsp;
 </p>
 
-<h2>About 💬</h2>
-
+## About 💬
 - Bachelor's Degree in **Computer Science** at the University of Trento
 - Master's Degree student of **Computer Science - Software and Service Architectures** at the University of Trento
 - Interested in cloud solutions and system design in general
