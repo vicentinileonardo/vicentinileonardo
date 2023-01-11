@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hi, I’m Leonardo Vicentini</h1>
 
-<p align="center">
-  <img src="blade_runner.gif" alt="blade_runner" />
-</p>
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/leonardovicentini/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
@@ -17,6 +13,10 @@
 - Bachelor's Degree in **Computer Science** at the University of Trento
 - Master's Degree student of **Computer Science - Software and Service Architectures** at the University of Trento
 - Interested in cloud solutions and system design in general
+
+<p align="center">
+  <img src="blade_runner.gif" alt="blade_runner" />
+</p>
 
 # My Toolbox 🧰
 
