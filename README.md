@@ -7,6 +7,9 @@
   <a href="mailto:vicentini.leonardo99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
   </a> &nbsp;&nbsp;
+  <a href="https://leonardovicentini.com">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img>
+  </a>&nbsp;&nbsp;
 </p>
 
 # About 💬
