@@ -21,8 +21,8 @@
   <img src="blade_runner.gif" alt="blade_runner" />
 </p>
 
-# My Toolbox 🧰
-a.k.a. what I've gotten my hands dirty with, so far
+# My Toolbox 🧰 (a.k.a. what I've gotten my hands dirty with, so far)
+
 ## Languages
 <!--
 <div>
