@@ -22,7 +22,7 @@
 </p>
 
 # My Toolbox 🧰
-(a.k.a. what I've gotten my hands dirty with (so far))
+a.k.a. what I've gotten my hands dirty with, so far
 ## Languages
 <!--
 <div>
