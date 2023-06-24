@@ -23,7 +23,7 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vicentinileonardo&show_icons=true&count_private=true&theme=tokyonight" height=200></a>&nbsp;&nbsp;
+  <!--<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vicentinileonardo&show_icons=true&count_private=true&theme=tokyonight" height=200></a>-->&nbsp;&nbsp;
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentinileonardo&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css,Procfile&layout=compact&langs_count=6" height=200></a>
 </p>
 
